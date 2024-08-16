@@ -107,6 +107,8 @@ public class graphRep {
             System.out.println("Grau de entrada: " + join_degree(matriz, ver));
             System.out.println("Grau de saída: " + leave_degree(matriz, ver));
 
+            // teste
+
             teclado.close();
         
     }
